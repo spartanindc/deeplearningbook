@@ -37,10 +37,10 @@ Either (under)graduate students learning ML or software engineers who want to le
 
 Deep learning is an old field that only appears new because of previous unpopularity and changing names.
 
-* Cybernetics: 1940-1960
+1. Cybernetics: 1940-1960
 
-* Connectionism: 1980-1990
+2. Connectionism: 1980-1990
 
-* Deep Learning: 2006-Present
+3. Deep Learning: 2006-Present
 
 Artifical Neural Networks (ANN) represent the biologically-based history of the alogrithms.  ANNs were originally models designed to understand the workings of the brain, now new findings in biology are translated to ANNs.
